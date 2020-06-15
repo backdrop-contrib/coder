@@ -15,5 +15,4 @@ one of these two projects instead:
   automate some/most of the work required to upgrade a module from Drupal to
   Backdrop 1.x
 
-If you are porting a module from Drupal 7 to Backdrop, you will probably need
-both.
+If you are porting a module from Drupal 7 to Backdrop, you may want both.
