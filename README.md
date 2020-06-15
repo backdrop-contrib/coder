@@ -7,7 +7,7 @@ Coder modules for backdrop
 If you are here looking for the coder module for Backdrop, you probably want
 one of these two projects instead:
 
-* [Coder review](https://github.com/backdrop-contrib/coder_review) - Reviews
+* [Coder Review](https://github.com/backdrop-contrib/coder_review) - Reviews
   your code identifying coding style problems and where updates to the API are
   required.
 
